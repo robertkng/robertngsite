@@ -295,7 +295,10 @@ section h3.section-subheading {
 }
 @media (min-width: 768px) {
   section {
-    padding: 150px 0;
+    padding: 150px 0 0;
+  }
+  .about-block {
+    padding-top: 30px;
   }
 }
 .service-heading {
